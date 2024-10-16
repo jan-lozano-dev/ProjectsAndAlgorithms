@@ -3,7 +3,7 @@
 #include <cstring>
 using namespace std;
 
-//Hashtable to implement 905, Jimmy
+//"Blueprint" for a hashtable declaration, functions and usage!
 
 class HashTable{
     private:
